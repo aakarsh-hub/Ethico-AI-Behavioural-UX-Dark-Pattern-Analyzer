@@ -1,0 +1,5 @@
+{
+  "name": "Ethico - AI Behavioural UX Analyzer",
+  "description": "An AI-powered platform to detect dark patterns, analyze behavioural manipulation, and suggest ethical UX redesigns from screenshots.",
+  "requestFramePermissions": []
+}
